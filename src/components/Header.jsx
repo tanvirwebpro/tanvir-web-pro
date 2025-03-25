@@ -19,7 +19,7 @@ const Header = () => {
         <h1>
           <a href="/" className="logo">
             <img
-              src="/public/Tanwebicon.svg"
+              src="/src/assets/Tanwebicon.svg"
               width={60}
               height={60}
               alt="Tanweb Logo"
