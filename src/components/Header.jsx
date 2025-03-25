@@ -19,7 +19,7 @@ const Header = () => {
         <h1>
           <a href="/" className="logo">
             <img
-              src="https://www.canva.com/design/DAGgvhT3zDc/aVCKY9oDttWZlfmKqiUx2A/view?utm_content=DAGgvhT3zDc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0742e7ada0"
+              src="/public/Tanwebicon.svg"
               width={60}
               height={60}
               alt="Henry Clark"
