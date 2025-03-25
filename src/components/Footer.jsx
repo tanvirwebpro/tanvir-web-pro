@@ -109,7 +109,7 @@ const Footer = () => {
 
         <div className="flex items-center justify-between pt-10 mb-8">
           <a href="/" className="logo reveal-up">
-            <img src="/src/assets/Tanwebicon.svg" width={60} height={60} alt="Logo" />
+            <img src="https://www.canva.com/design/DAGgvhT3zDc/5sn5ZHiCy8VoPw63iehicw/view" width={60} height={60} alt="Logo" />
           </a>
 
           <p className="text-zinc-500 text-sm reveal-up">

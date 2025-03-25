@@ -19,11 +19,12 @@ const Header = () => {
         <h1>
           <a href="/" className="logo">
             <img
-              src="/src/assets/Tanwebicon.svg"
+              src="https://www.canva.com/design/DAGgvhT3zDc/5sn5ZHiCy8VoPw63iehicw/view"
               width={60}
               height={60}
               alt="Tanweb Logo"
             />
+            <h1></h1>
           </a>
         </h1>
 
