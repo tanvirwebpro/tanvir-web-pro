@@ -8,7 +8,7 @@ const works = [
     imgSrc: "/images/lms.png",
     title: "Full stack LMS",
     tags: ["FontEnd", "BackEnd", "Admin"],
-    projectLink: "https://anudesign-6881c.web.app/",
+    projectLink: "https://the-hungry-portal.web.app/",
   },
   {
     imgSrc: "/images/ecomerce.png",
@@ -32,7 +32,7 @@ const works = [
     imgSrc: "/images/project-5.jpg",
     title: "eCommerce website",
     tags: ["eCommerce", "Development"],
-    projectLink: "https://codewithsadee.github.io/anon-ecommerce-website/",
+    projectLink: "https://tanwebpro1.netlify.app/",
   },
   {
     imgSrc: "/images/project-6.jpg",

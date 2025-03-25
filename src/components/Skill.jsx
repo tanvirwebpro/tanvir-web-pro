@@ -62,6 +62,21 @@ const skillItem = [
     label: "Figma",
     desc: "Design tool",
   },
+  {
+    imgSrc: "https://cms.pixso.net/images/home/format-pix.png",
+    label: "Pixso",
+    desc: "Design tool",
+  },
+  {
+    imgSrc: "https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg",
+    label: "DaisyUI",
+    desc: "User Interface",
+  },
+  {
+    imgSrc: "https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg",
+    label: "Bootstrap",
+    desc: "User Interface",
+  },
 ];
 
 const Skill = () => {

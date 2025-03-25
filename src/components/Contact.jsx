@@ -5,7 +5,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 const socialLinks = [
   {
-    href: "https://github.com/Anuwar-Hosain",
+    href: "https://github.com/tanvirwebpro",
     icon: (
       <svg
         width="24"
@@ -23,7 +23,7 @@ const socialLinks = [
     alt: "GitHub",
   },
   {
-    href: "https://www.linkedin.com/in/anuwar",
+    href: "",
     icon: (
       <svg
         width="24"
@@ -41,7 +41,7 @@ const socialLinks = [
     alt: "LinkedIn",
   },
   {
-    href: "https://x.com/anuwarhossn",
+    href: "",
     icon: (
       <svg
         width="24"
@@ -59,7 +59,7 @@ const socialLinks = [
     alt: "Twitter X",
   },
   {
-    href: "https://www.facebook.com/anuwarhosan40",
+    href: "https://www.facebook.com/tanvirahmed5748",
     icon: (
       <svg
         width="25"

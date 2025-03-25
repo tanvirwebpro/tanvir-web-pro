@@ -10,11 +10,11 @@ const Hero = () => {
       <div className="container items-center lg:grid lg:grid-cols-2 lg:gap-10">
         <div>
           <div className="flex items-center gap-3">
-            <figure className="img-box w-9 h-9 rounded-lg">
+            <figure className="img-box w-14 h-14 rounded-lg">
               <img
                 src="https://i.ibb.co.com/LzQHdHrY/Untitled-design-2.png"
-                width={40}
-                height={40}
+                width={56}
+                height={46}
                 alt="Henry clark portrait"
                 className="img-cover"
               />
