@@ -22,7 +22,7 @@ const Header = () => {
               src="/public/Tanwebicon.svg"
               width={60}
               height={60}
-              alt="Henry Clark"
+              alt="Tanweb Logo"
             />
           </a>
         </h1>
